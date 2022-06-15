@@ -1,0 +1,29 @@
+// Export tasks data using Google Takeout
+// Copy and paste only the "items" part and put into []
+// Example:
+// [
+//     {
+//         "notes": ".",
+//         "due": "2022-10-31T16:00:00Z",
+//         "kind": "tasks#task",
+//         "created": "2022-06-13T02:37:08.549574Z",
+//         "id": "LWNnVGEyMGI3eTJ2LWwzOA",
+//         "title": "Remind SV to email evaluation report",
+//         "task_type": "PERSONAL_TASK",
+//         "updated": "2022-06-13T02:38:09.016639Z",
+//         "selfLink": "https://www.googleapis.com/tasks/v1/lists/MTU4NDU2ODEwMjM5NDE1NjAwNzE6MDow/tasks/LWNnVGEyMGI3eTJ2LWwzOA",
+//         "status": "needsAction"
+//       },
+//       {
+//         "notes": "Internship report",
+//         "due": "2022-10-31T16:00:00Z",
+//         "kind": "tasks#task",
+//         "created": "2022-06-13T02:22:19.975875Z",
+//         "id": "MjVUYWNMNm1uQWpsa2liZQ",
+//         "title": "Write final report",
+//         "task_type": "PERSONAL_TASK",
+//         "updated": "2022-06-13T02:23:00.647935Z",
+//         "selfLink": "https://www.googleapis.com/tasks/v1/lists/MTU4NDU2ODEwMjM5NDE1NjAwNzE6MDow/tasks/MjVUYWNMNm1uQWpsa2liZQ",
+//         "status": "needsAction"
+//       },
+// ]

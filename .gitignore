@@ -1,0 +1,4 @@
+client_secret_file.json
+.env
+__pycache__/
+tasks-migration-venv/
