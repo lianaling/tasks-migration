@@ -22,8 +22,8 @@ Export `Tasks` in `json` format.
 
 ### [Create API & OAuth2 Token](https://support.google.com/cloud/answer/6158849?hl=en)
 
-#### Create Environmental Variables as Needed
+### Create Environmental Variables as Needed
 
-#### [Run Python Script]
+### Run Python Script
 
 `$ python main.py`
